@@ -1,0 +1,17 @@
+{
+  "title": "My Work as Art",
+  "kind": "Participatory cards / organisational development and art",
+  "description": "A card-based exploration connecting Picasso’s artistic approaches with real organisational and interpersonal transformation practices. Presented at the Integral Conference in North America in Denver in 2026. The portfolio reproduces Japanese translations of the original English cards.",
+  "image": "/assets/portfolio-page-07.jpg",
+  "image_alt": "Portfolio documentation: My Work as Art",
+  "gallery": [
+    "/assets/portfolio-page-07.jpg",
+    "/assets/portfolio-page-08.jpg",
+    "/assets/portfolio-page-09.jpg",
+    "/assets/portfolio-page-10.jpg",
+    "/assets/portfolio-page-11.jpg",
+    "/assets/portfolio-page-12.jpg"
+  ],
+  "published": true,
+  "date": "2026-01-01"
+}

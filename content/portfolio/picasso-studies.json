@@ -1,0 +1,11 @@
+{
+  "title": "Picasso Studies",
+  "kind": "Studies / charcoal, Kitpas, pen and watercolour",
+  "description": "Studies after works by Pablo Picasso, including The Weeping Woman and The Kiss (1925). An exploration of form and the coexistence of tenderness and conflict.",
+  "image": "/assets/portfolio-page-01.jpg",
+  "image_alt": "Portfolio documentation: Picasso Studies",
+  "gallery": [
+    "/assets/portfolio-page-01.jpg"
+  ],
+  "published": true
+}

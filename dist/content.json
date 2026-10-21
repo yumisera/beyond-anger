@@ -1,0 +1,145 @@
+{
+  "site": {
+    "name": "Beyond Anger",
+    "author": "Yumi Sera",
+    "eyebrow": "AN ONGOING INQUIRY",
+    "question": "Can Anger Be Beautiful?",
+    "intro": "Yumi Sera sees anger as water — something that naturally rises, flows, and recedes. Rather than suppressing or judging it, she explores how we might give it a place to exist.",
+    "intro2": "She gives this inquiry physical form: a vessel made of two seemingly incompatible materials, half glass and half earth. As she pursues this technically unresolved challenge, the vessel becomes an invitation to conversation.",
+    "closing": "What conversations might unfold along the way? And how might anger become beautiful?",
+    "profile": "Yumi Sera works at the intersection of business, art, and human experience. Drawing on her practice in organisational development, she explores how we encounter, express, and make space for the complexities and contradictions of being human.",
+    "biography": [
+      {
+        "year": "2015",
+        "description": "Graduated from Keio University with a Bachelor of Laws. Became the first Asian associate of Action Inquiry Associates, an international network dedicated to adult development and action inquiry."
+      },
+      {
+        "year": "2017",
+        "description": "Completed a Master's degree in System Design and Management at Keio University Graduate School and the i.school programme at the University of Tokyo. Began serving as Chief Culture Officer at a consultancy specialising in management, new business development, and organisational transformation."
+      },
+      {
+        "year": "2023",
+        "description": "Began serving as a long-term organisational advisor to multiple companies, supporting organisational development and transformation."
+      },
+      {
+        "year": "2025",
+        "description": "Founded Focus In Ltd. in the United Kingdom, exploring the transformation of business culture through collaborations with artists."
+      },
+      {
+        "year": "2026",
+        "description": "Presented Beyond Anger, an installation exploring anger through a vessel of glass and earth, sound, and dialogue."
+      }
+    ],
+    "publications": [
+      "The SAGE Handbook of Action Research — Contributing Author, SAGE Publications",
+      "Action Inquiry (行動探求) — Japanese edition, editorial and translation collaboration, Eiji Press",
+      "Mahō no Shūchūjutsu (魔法の集中術) — Author, Sogo Horei Publishing"
+    ],
+    "youtube_url": "",
+    "substack_url": "https://yumisera.substack.com/",
+    "contact_email": "",
+    "hero_image": "/assets/beyond-anger-main.png",
+    "hero_alt": "Beyond Anger — main illustration",
+    "artwork_image": "/assets/beyond-anger-main.png",
+    "profile_image": "",
+    "films": []
+  },
+  "conversations": [],
+  "portfolio": [
+    {
+      "title": "Beyond Anger",
+      "date": "2026-09-18",
+      "kind": "Installation / sound / moving image / vessel",
+      "description": "An inquiry into anger through water, a vessel of glass and earth, and the rhythm of dialogue.",
+      "image": "/assets/beyond-anger-main.png",
+      "image_alt": "Installation documentation of Beyond Anger",
+      "youtube_url": "",
+      "substack_url": "https://yumisera.substack.com/",
+      "published": true
+    },
+    {
+      "title": "My Work as Art",
+      "kind": "Participatory cards / organisational development and art",
+      "description": "A card-based exploration connecting Picasso’s artistic approaches with real organisational and interpersonal transformation practices. Presented at the Integral Conference in North America in Denver in 2026. The portfolio reproduces Japanese translations of the original English cards.",
+      "image": "/assets/portfolio-page-07.jpg",
+      "image_alt": "Portfolio documentation: My Work as Art",
+      "gallery": [
+        "/assets/portfolio-page-07.jpg",
+        "/assets/portfolio-page-08.jpg",
+        "/assets/portfolio-page-09.jpg",
+        "/assets/portfolio-page-10.jpg",
+        "/assets/portfolio-page-11.jpg",
+        "/assets/portfolio-page-12.jpg"
+      ],
+      "published": true,
+      "date": "2026-01-01"
+    },
+    {
+      "title": "The Blue Rose Does Not Wither (ブルーローズが枯れない)",
+      "kind": "Poetry / photography",
+      "description": "An excerpt from a 2015 poem contemplating the blue rose and the ambiguous boundary between living and dying.",
+      "image": "/assets/portfolio-page-05.jpg",
+      "image_alt": "Portfolio documentation: The Blue Rose Does Not Wither (ブルーローズが枯れない)",
+      "gallery": [
+        "/assets/portfolio-page-05.jpg"
+      ],
+      "published": true,
+      "date": "2015-01-01"
+    },
+    {
+      "title": "Believe in White?",
+      "kind": "Readymade / found everyday materials",
+      "description": "Whitening, bleaching, the pursuit of purity. How far do we believe in white? Made with toilet paper, toothpaste, bleach, paper plates, copy paper and an eraser.",
+      "image": "/assets/portfolio-page-02.jpg",
+      "image_alt": "Portfolio documentation: Believe in White?",
+      "gallery": [
+        "/assets/portfolio-page-02.jpg"
+      ],
+      "published": true
+    },
+    {
+      "title": "Collage Studies",
+      "kind": "Collage / clippings from old magazines",
+      "description": "A series of collages including How could you be so still, Bill?, Blue, and untitled works, assembled from old magazine cuttings.",
+      "image": "/assets/portfolio-page-04.jpg",
+      "image_alt": "Portfolio documentation: Collage Studies",
+      "gallery": [
+        "/assets/portfolio-page-04.jpg"
+      ],
+      "published": true
+    },
+    {
+      "title": "Joy, Anger, Sadness, Pleasure (喜怒哀楽)",
+      "kind": "Sculpture / clay",
+      "description": "Four sculptural explorations of joy, anger, sadness and pleasure, made in clay.",
+      "image": "/assets/portfolio-page-03.jpg",
+      "image_alt": "Portfolio documentation: Joy, Anger, Sadness, Pleasure (喜怒哀楽)",
+      "gallery": [
+        "/assets/portfolio-page-03.jpg"
+      ],
+      "published": true
+    },
+    {
+      "title": "Pencil Drawings",
+      "kind": "Drawing / pencil",
+      "description": "Studies of the human figure and everyday objects in pencil.",
+      "image": "/assets/portfolio-page-06.jpg",
+      "image_alt": "Portfolio documentation: Pencil Drawings",
+      "gallery": [
+        "/assets/portfolio-page-06.jpg"
+      ],
+      "published": true
+    },
+    {
+      "title": "Picasso Studies",
+      "kind": "Studies / charcoal, Kitpas, pen and watercolour",
+      "description": "Studies after works by Pablo Picasso, including The Weeping Woman and The Kiss (1925). An exploration of form and the coexistence of tenderness and conflict.",
+      "image": "/assets/portfolio-page-01.jpg",
+      "image_alt": "Portfolio documentation: Picasso Studies",
+      "gallery": [
+        "/assets/portfolio-page-01.jpg"
+      ],
+      "published": true
+    }
+  ]
+}

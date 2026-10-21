@@ -1,0 +1,11 @@
+{
+  "title": "Pencil Drawings",
+  "kind": "Drawing / pencil",
+  "description": "Studies of the human figure and everyday objects in pencil.",
+  "image": "/assets/portfolio-page-06.jpg",
+  "image_alt": "Portfolio documentation: Pencil Drawings",
+  "gallery": [
+    "/assets/portfolio-page-06.jpg"
+  ],
+  "published": true
+}
