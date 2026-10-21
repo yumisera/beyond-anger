@@ -52,3 +52,4 @@ Cloudflare will redeploy when Pages CMS commits saved changes to GitHub. If it d
 - GitHub source must be public or within your plan's compatible access policy; do not upload private unpublished sensitive content.
 - If you want a custom domain rather than the free `*.pages.dev` address, domain registration may cost money.
 - Portfolio works have been populated using documentary page images rendered from the supplied 12-page PDF. The PDF page images include Picasso reproductions; review third-party artwork reproduction rights before public deployment. Add separate original high-resolution photographs later for a more polished portfolio.
+Substack integration update.
